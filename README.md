@@ -9,3 +9,4 @@
 | [3](https://adventofcode.com/2020/day/3) | [Go](3) |
 | [4](https://adventofcode.com/2020/day/4) | [TypeScript](4) |
 | [5](https://adventofcode.com/2020/day/5) | [Python](5) |
+| [6](https://adventofcode.com/2020/day/6) | [Java](6) |
