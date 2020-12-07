@@ -1,3 +1,4 @@
 4/node_modules/
 4/*.js
 4/*.json
+.vscode/

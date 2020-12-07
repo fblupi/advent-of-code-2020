@@ -8,3 +8,4 @@
 | [2](https://adventofcode.com/2020/day/2) | [Perl](2) |
 | [3](https://adventofcode.com/2020/day/3) | [Go](3) |
 | [3](https://adventofcode.com/2020/day/4) | [TypeScript](4) |
+| [3](https://adventofcode.com/2020/day/5) | [Python](5) |
