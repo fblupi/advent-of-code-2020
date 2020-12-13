@@ -3,3 +3,9 @@
 4/*.json
 .vscode/
 6/*.class
+9/.vs
+9/bin
+9/obj
+9/Properties
+9/*.csproj*
+9/*.sln

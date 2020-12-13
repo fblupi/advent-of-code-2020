@@ -12,3 +12,4 @@
 | [6](https://adventofcode.com/2020/day/6) | [Java](6) |
 | [7](https://adventofcode.com/2020/day/7) | [Groovy](7) |
 | [8](https://adventofcode.com/2020/day/8) | [JavaScript](8) |
+| [9](https://adventofcode.com/2020/day/9) | [C#](9) |
